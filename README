@@ -1,0 +1,29 @@
+LIVEBOX 1.0
+LiveBox project aims to interact with LiveBox device in order to perform frequent restart. 
+Interaction with device is done by com.gargoylesoftware.htmlunit framworka
+Installation
+
+TODO: Describe the installation process
+
+Usage
+
+TODO: Write usage instructions
+
+Contributing
+
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+History
+
+TODO: Write history
+
+Credits
+
+TODO: Write credits
+
+License
+
+TODO: Write license
